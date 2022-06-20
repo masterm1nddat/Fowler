@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.masterm1nd.fowler">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ucak_logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ucak_logo1"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fowler">
+        <activity
+            android:name=".OyunActivity"
+            android:screenOrientation="landscape"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

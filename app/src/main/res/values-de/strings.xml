@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fowler</string>
+    <string name="uc_vur">Schießen die Vögel</string>
+    <string name="basla">Abspielen</string>
+    <string name="en_yuksek_skor">Höchste Punktzahl</string>
+</resources>

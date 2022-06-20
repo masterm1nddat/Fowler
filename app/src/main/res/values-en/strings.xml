@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fowler</string>
+    <string name="uc_vur">SHOOT THE BIRDS</string>
+    <string name="basla">PLAY</string>
+    <string name="en_yuksek_skor">HIGH SCORE</string>
+</resources>
